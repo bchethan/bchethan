@@ -2,9 +2,9 @@
 
 ### Learning Web Development and web 3
 
-![](https://komarev.com/ghpvc/?username=bChethan&color=green)
+![](https://komarev.com/ghpvc/?username=bChethan&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bChethan)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bChethan&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **bChethan/bChethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
