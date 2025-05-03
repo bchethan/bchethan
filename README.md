@@ -1,4 +1,7 @@
 ## Hi there 👋 I'm chethan
+### A Web Devoloper and learning web 3
+
+<img src = "https://komarev.com/ghpvc/?username=bChethan&label=Profile%20views&color=0e75b6&style=flat" alt="bChethan">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bChethan)](https://github.com/ryo-ma/github-profile-trophy)
 
